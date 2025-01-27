@@ -1,5 +1,7 @@
-## TikTok Clone
+# TikTok Clone
 This project involves creating a TikTok clone named PopReel as part of Headstarter Accelerator Projects.
+
+## Todo
 
 - [ ] Design Database schema for storing videos and metadata
 - [ ] Recommendation system design
